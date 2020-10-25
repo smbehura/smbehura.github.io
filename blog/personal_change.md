@@ -3,19 +3,20 @@
 to document my progress through my personal change challenge
 
 ## table of contents
-[18/10/20](#181020)  
-[19/10/20](#191020)  
+[18/10/20](#sun-181020)  
+[19/10/20](#mon-191020)  
 * [note](#note)  
-[21/10/20](#211020)  
-[23/10/20](#231020)
 
-## 23/10/20
+[21/10/20](#wed-211020)  
+[23/10/20](#fri-231020)
+
+## fri 23/10/20
 i received notice that i was accepted into cambridge hub's engage for change program.
 
-## 21/10/20
+## wed 21/10/20
 i had an interview for cambridge hub's engage for change program. it may be a good program to contribute to this personal change challenge as well.
 
-## 19/10/20
+## mon 19/10/20
 i've been thinking about what type of personal change i want to interrogate and came up with a few different ideas which have different depths of personal involvement. some of the options i had thought of are more community-oriented and require less personal reflection (in my own estimation) because i have large amounts of experience in those routes but others are much more personal and will require internal work to become comfortable with. just to start out with, here are the options i was thinking about:
 * working with cambridge hub on their carbon literacy project
 * working with newnham's environmental justice society specifically towards newnham college's divestment and possibly to better bame involvement within the organization which is currently all white
@@ -37,5 +38,5 @@ i think just from this post, it's pretty clear i'm leaning towards social media 
 ### note
 i received an email from engage for change with cambridge hub that i have an interview for their program on wednesday. i may use what i learn and do through that initiative as content in the social media challenge.
 
-## 18/10/20
+## sun 18/10/20
 emailed cambridge hub's manage of the carbon literacy project asking about how to get involved
