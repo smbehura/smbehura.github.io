@@ -3,11 +3,11 @@
 to document my progress through my personal change challenge
 
 ## table of contents
-[18/10/20](#18/10/20)  
-[19/10/20](#19/10/20)  
-* [note](#note)
-[21/10/20](#21/10/20)  
-[23/10/20](#23/10/20)
+[18/10/20](#181020)  
+[19/10/20](#191020)  
+* [note](#note)  
+[21/10/20](#211020)  
+[23/10/20](#231020)
 
 ## 23/10/20
 i received notice that i was accepted into cambridge hub's engage for change program.
