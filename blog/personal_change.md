@@ -9,6 +9,13 @@ to document my progress through my personal change challenge
 
 [21/10/20](#wed-211020)  
 [23/10/20](#fri-231020)
+[04/11/20](#wed-041120)
+
+## thurs 05/11/20
+i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to 
+
+## wed 04/11/20
+i had intended to write much earlier than now about different thoughts i had especially along these lines of changing my social media behavior but have been feeling intensely stressed about the american election and as a result, never actually stuck to the original plan of being consistent. i have plans to be more consistent now but we shall see how well i can keep up with my plans. i feel a little sad about not having it together on social media because i had intended to post more often around election time but became overwhelmed just by the stress of outcome. i did post a few times on my instagram story about voting line procedures and how to ensure your vote is counted but i had more extravagant plans. i really loved the misinformation reading and was planning on posting about that.
 
 ## fri 23/10/20
 i received notice that i was accepted into cambridge hub's engage for change program.
