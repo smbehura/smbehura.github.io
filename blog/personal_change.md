@@ -10,9 +10,20 @@ to document my progress through my personal change challenge
 [21/10/20](#wed-211020)  
 [23/10/20](#fri-231020)
 [04/11/20](#wed-041120)
+[05/11/20](#thurs-051120)
 
 ## thurs 05/11/20
-i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to 
+i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to post about this reading on the weekend. i think i will highlight the fact the even if biden wins, the fight is still not over and that there are still plenty of people who we need to reach who live in this alternate reality as highlighted in the misinformation reading.
+
+i also wanted to reflect on the fact that even the small posts i did make about voting made me nervous to post. i realize that absolutely no one judged me (probably) because the posts were about staying in line and what to prepare for in case you were denied a ballot which are relatively uncontroversial things but i still had a moment of stress where i almost did not post because i thought it was useless or overdone information. even if posting about staying in line and other voting information was a repeated message throughout my own feed, that doesn't mean it's fully useless to continue posting it and i myself sometimes find that once a specific post has been posted enough times, i spend the time to read it more thoroughly (especially compared to posts that i see only once and are too long to retain my attention). also, this reminds me of one of the tips that we discussed last week in esd150 which discussed how communication is almost always done at a tenth of the rate it should be done to be fully effective so even if it seems like content is being repeated, that repetition is in fact enhancing the message even if it seems over the top.
+
+finally, i've decided i need to, in general, put some more infrequent, smaller type goals for posting and amplifying messages on social media. specifically, i've decided that i need to amplify at least one message every other day. this message can be something someone else posted or just something i resonated with but doesn't need to have as much thought. i will do postings of readings with more thought and intention behind the posts on top of these but those i will perhaps do once a week as opposed to every couple days. for my own reference i'm listing some ideas for this longer form posts below:
+* misinformation reading posts and thoughts
+* posting about casteism in india based on my own ramayana readings
+* posting about development as freedom as i go through the book
+* finish posting thoughts from angela davis' 'are prisons obsolete?' that i read over summer
+* post thoughts from intercommunalism by huey newton
+* **add more readings to this list**
 
 ## wed 04/11/20
 i had intended to write much earlier than now about different thoughts i had especially along these lines of changing my social media behavior but have been feeling intensely stressed about the american election and as a result, never actually stuck to the original plan of being consistent. i have plans to be more consistent now but we shall see how well i can keep up with my plans. i feel a little sad about not having it together on social media because i had intended to post more often around election time but became overwhelmed just by the stress of outcome. i did post a few times on my instagram story about voting line procedures and how to ensure your vote is counted but i had more extravagant plans. i really loved the misinformation reading and was planning on posting about that.
