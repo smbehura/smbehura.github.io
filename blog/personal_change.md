@@ -8,9 +8,9 @@ to document my progress through my personal change challenge
 * [note](#note)  
 
 [21/10/20](#wed-211020)  
-[23/10/20](#fri-231020)
-[04/11/20](#wed-041120)
-[05/11/20](#thurs-051120)
+[23/10/20](#fri-231020)  
+[04/11/20](#wed-041120)  
+[05/11/20](#thurs-051120)  
 
 ## thurs 05/11/20
 i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to post about this reading on the weekend. i think i will highlight the fact the even if biden wins, the fight is still not over and that there are still plenty of people who we need to reach who live in this alternate reality as highlighted in the misinformation reading.
