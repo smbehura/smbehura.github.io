@@ -11,6 +11,7 @@ to document my progress through my personal change challenge
 [23/10/20](#fri-231020)  
 [04/11/20](#wed-041120)  
 [05/11/20](#thurs-051120)  
+[06/11/20](#fri-061120)
 
 ## fri 06/11/20
 today, i posted on my story twice in an effort to make my smaller-scale goals of amplifying messages i find important. each only took a few minutes each but here are the screenshots for them. one amplified another instagram post that i found to be very informative about the true origins of the electoral college. the other amplified a tweet on my twitter feed that highlighted the efforts of stacey abrams in georgia and also commented on the extraordinary choice she made to invest in her community after a loss instead of running after more fame through a presidential run.  
