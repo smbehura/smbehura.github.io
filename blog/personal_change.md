@@ -14,7 +14,7 @@ to document my progress through my personal change challenge
 
 ## fri 06/11/20
 today, i posted on my story twice in an effort to make my smaller-scale goals of amplifying messages i find important. each only took a few minutes each but here are the screenshots for them. one amplified another instagram post that i found to be very informative about the true origins of the electoral college. the other amplified a tweet on my twitter feed that highlighted the efforts of stacey abrams in georgia and also commented on the extraordinary choice she made to invest in her community after a loss instead of running after more fame through a presidential run.  
-![alt text][img/0611igstoryelectoral.jpg]
+<img src="img/0611igstoryelectoral.jpg" alt="electoral college" width="200"/>
 
 ## thurs 05/11/20
 i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to post about this reading on the weekend. i think i will highlight the fact the even if biden wins, the fight is still not over and that there are still plenty of people who we need to reach who live in this alternate reality as highlighted in the misinformation reading.
