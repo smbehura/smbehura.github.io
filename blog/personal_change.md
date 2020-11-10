@@ -15,6 +15,7 @@ to document my progress through my personal change challenge
 
 ## tues 10/11/20
 here i am today and i finally made another post. this time i finally made it to my misinformation mega post that in hindsight, i am quite proud of. i should note it took me at least an hour to collect the quotes i wanted to post and then comment and post each of these quotes in my stories. this act of posting really makes me appreciate the work digital activists do a lot more as well in forming cohesive thoughts and presenting information in a way that is actually digestible. i was also very happy to receive feedback from other friends before i had even finished posting all my thoughts. during and within 5 minutes of posting my thoughts on misinformation, three different people from different circles of my life asked me for more information and a link to read the full article. given how long the whole exercise took though, i definitely have to budget more time to make posts like this in the future. below are the stories i posted:
+
 <img src="img/igmis1.jpg" alt="misinformation 1" width="200"/>
 <img src="img/igmis2.jpg" alt="misinformation 2" width="200"/>
 <img src="img/igmis3.jpg" alt="misinformation 3" width="200"/>
