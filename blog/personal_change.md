@@ -12,6 +12,7 @@ to document my progress through my personal change challenge
 [04/11/20](#wed-041120)  
 [05/11/20](#thurs-051120)  
 [06/11/20](#fri-061120)
+[10/11/20](#tues-101120)
 
 ## tues 10/11/20
 here i am today and i finally made another post. this time i finally made it to my misinformation mega post that in hindsight, i am quite proud of. i should note it took me at least an hour to collect the quotes i wanted to post and then comment and post each of these quotes in my stories. this act of posting really makes me appreciate the work digital activists do a lot more as well in forming cohesive thoughts and presenting information in a way that is actually digestible. i was also very happy to receive feedback from other friends before i had even finished posting all my thoughts. during and within 5 minutes of posting my thoughts on misinformation, three different people from different circles of my life asked me for more information and a link to read the full article. given how long the whole exercise took though, i definitely have to budget more time to make posts like this in the future. below are the stories i posted:
