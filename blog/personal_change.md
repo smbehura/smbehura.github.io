@@ -13,10 +13,35 @@ to document my progress through my personal change challenge
 [05/11/20](#thurs-051120)  
 [06/11/20](#fri-061120)
 
+## tues 10/11/20
+here i am today and i finally made another post. this time i finally made it to my misinformation mega post that in hindsight, i am quite proud of. i should note it took me at least an hour to collect the quotes i wanted to post and then comment and post each of these quotes in my stories. this act of posting really makes me appreciate the work digital activists do a lot more as well in forming cohesive thoughts and presenting information in a way that is actually digestible. i was also very happy to receive feedback from other friends before i had even finished posting all my thoughts. during and within 5 minutes of posting my thoughts on misinformation, three different people from different circles of my life asked me for more information and a link to read the full article. given how long the whole exercise took though, i definitely have to budget more time to make posts like this in the future. below are the stories i posted:
+<img src="img/igmis1.jpg" alt="misinformation 1" width="200"/>
+<img src="img/igmis2.jpg" alt="misinformation 2" width="200"/>
+<img src="img/igmis3.jpg" alt="misinformation 3" width="200"/>
+<img src="img/igmis4.jpg" alt="misinformation 4" width="200"/>
+<img src="img/igmis5.jpg" alt="misinformation 5" width="200"/>
+<img src="img/igmis6.jpg" alt="misinformation 6" width="200"/>
+<img src="img/igmis7.jpg" alt="misinformation 7" width="200"/>
+<img src="img/igmis8.jpg" alt="misinformation 8" width="200"/>
+<img src="img/igmis9.jpg" alt="misinformation 9" width="200"/>
+<img src="img/igmis10.jpg" alt="misinformation 10" width="200"/>
+<img src="img/igmis11.jpg" alt="misinformation 11" width="200"/>
+<img src="img/igmis12.jpg" alt="misinformation 12" width="200"/>
+<img src="img/igmis13.jpg" alt="misinformation 13" width="200"/>
+<img src="img/igmis14.jpg" alt="misinformation 14" width="200"/>
+<img src="img/igmis15.jpg" alt="misinformation 15" width="200"/>
+
+also, i did not make my intention of posting less labor-intensive content every other day this weekend. i thought about it but found it quite difficult to choose only a few posts to focus on when so many of the posts i read online felt important. it was very difficult to choose which issues were important to amplify and which weren't. it also felt wrong to amplify everything because then no one would actually click through this long string of stories and just flip past my story in totality. i know this happens because i do it myself to friends who post 20 stories in one day. given that, i think it's important to post maximum 3 or 4 posts in your story if you want to ensure people actually engage with them. this is a difficulty i probably need to develop a personal algorithm for in terms of choice of post.
+
+one thing to note that even in the time that i've been writing this post, five more people dm'ed me about the post, three of whom asked for the link to read the article.
+
 ## fri 06/11/20
 today, i posted on my story twice in an effort to make my smaller-scale goals of amplifying messages i find important. each only took a few minutes each but here are the screenshots for them. one amplified another instagram post that i found to be very informative about the true origins of the electoral college. the other amplified a tweet on my twitter feed that highlighted the efforts of stacey abrams in georgia and also commented on the extraordinary choice she made to invest in her community after a loss instead of running after more fame through a presidential run.  
 <img src="img/0611igstoryelectoral.jpg" alt="electoral college" width="200"/>
 <img src="img/0611igstorystacey.jpg" alt="stacey abrams" width="200"/>
+
+even from the two posts above i got feedback from a friend who is very active in broadcasting social issues over social media who pointed out the fact that stacey abrams was not the sole person behind the movement. i knew this but as a result of her message, i posted one more story that day:
+<img src="img/0611igstorynotjuststacey.jpg" alt="not just stacey abrams" width="200"/>
 
 ## thurs 05/11/20
 i'm writing this post because i didn't finish my post from yesterday. basically, i had intended to post about the misinformation reading before the election happened just in case it would help people i know with their own families who may be trump supporters. i wanted to include explanations amongst highlighted sections that i found important but in the end, i didn't get around to it before the election happened (unfortunately). despite this, i still want to post about this reading on the weekend. i think i will highlight the fact the even if biden wins, the fight is still not over and that there are still plenty of people who we need to reach who live in this alternate reality as highlighted in the misinformation reading.
