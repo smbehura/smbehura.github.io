@@ -11,8 +11,12 @@ to document my progress through my personal change challenge
 [23/10/20](#fri-231020)  
 [04/11/20](#wed-041120)  
 [05/11/20](#thurs-051120)  
-[06/11/20](#fri-061120)
-[10/11/20](#tues-101120)
+[06/11/20](#fri-061120)  
+[10/11/20](#tues-101120)  
+[11/11/20](#wed-111120)
+
+## wed 11/11/20
+i just wanted to quickly note down that ten or eleven more people reached out to me for a link to the article, one of whom i have probably only spoken to once in my life. one friend also critically engaged with on the content of the article, asking for more information about the solutions and whether or not this paper was being realistic about its recommendations. another friend mentioned how the paper helped him understand some of his own friends and relatives more and how he was hoping to use some of the insights to have more genuine discussions with them. later today i'll post the attrition rate of views of this story.
 
 ## tues 10/11/20
 here i am today and i finally made another post. this time i finally made it to my misinformation mega post that in hindsight, i am quite proud of. i should note it took me at least an hour to collect the quotes i wanted to post and then comment and post each of these quotes in my stories. this act of posting really makes me appreciate the work digital activists do a lot more as well in forming cohesive thoughts and presenting information in a way that is actually digestible. i was also very happy to receive feedback from other friends before i had even finished posting all my thoughts. during and within 5 minutes of posting my thoughts on misinformation, three different people from different circles of my life asked me for more information and a link to read the full article. given how long the whole exercise took though, i definitely have to budget more time to make posts like this in the future. below are the stories i posted:
@@ -35,7 +39,9 @@ here i am today and i finally made another post. this time i finally made it to 
 
 also, i did not make my intention of posting less labor-intensive content every other day this weekend. i thought about it but found it quite difficult to choose only a few posts to focus on when so many of the posts i read online felt important. it was very difficult to choose which issues were important to amplify and which weren't. it also felt wrong to amplify everything because then no one would actually click through this long string of stories and just flip past my story in totality. i know this happens because i do it myself to friends who post 20 stories in one day. given that, i think it's important to post maximum 3 or 4 posts in your story if you want to ensure people actually engage with them. this is a difficulty i probably need to develop a personal algorithm for in terms of choice of post.
 
-one thing to note that even in the time that i've been writing this post, five more people dm'ed me about the post, three of whom asked for the link to read the article.
+one thing to note is that even in the time that i've been writing this post, five more people dm'ed me about the post, three of whom asked for the link to read the article. one of my friends even wants to bring the article up at work as an avenue to bring more focus to (she works at a non-profit focused on civil engagement) which is super cool! i'm really glad i could through social media even have enough influence to reach her workplace.
+
+also, my previous posts have been getting about 250 views and i imagine at least the first couple stories in this post will also reach a somewhat similar size of audience. even as i look at the stats now, each story is getting viewed fewer times than the previous obviously out of reader exhaustion. obviously, i knew this would happen but it's still interesting to note the attrition rate. i may try to document the final attrition rate tomorrow after about 20 hours of the stories being up.
 
 ## fri 06/11/20
 today, i posted on my story twice in an effort to make my smaller-scale goals of amplifying messages i find important. each only took a few minutes each but here are the screenshots for them. one amplified another instagram post that i found to be very informative about the true origins of the electoral college. the other amplified a tweet on my twitter feed that highlighted the efforts of stacey abrams in georgia and also commented on the extraordinary choice she made to invest in her community after a loss instead of running after more fame through a presidential run.  
