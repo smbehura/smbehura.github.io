@@ -13,10 +13,17 @@ to document my progress through my personal change challenge
 [05/11/20](#thurs-051120)  
 [06/11/20](#fri-061120)  
 [10/11/20](#tues-101120)  
-[11/11/20](#wed-111120)
+[11/11/20](#wed-111120)  
+[12/11/20](#thurs-121120)
+
+## thurs 12/11/20
+i posted a low-key thing on my story today, just amplifying a story from a genderqueer model (@raindovemodel) i follow who posted about their conversation with a trump supporter who was having difficulties with her gay daughter because of her support of trump. the conversation ends with raindovemodel helping the mother understand why her daughter felt unsafe and was so miserable and actually feeling regret for her trump vote. it was insane seeing the transition so i felt like amplifying it. here's the story:
+<img src="img/1211igstorypolar.jpg" alt="polarization" width="200"/>
 
 ## wed 11/11/20
 i just wanted to quickly note down that ten or eleven more people reached out to me for a link to the article, one of whom i have probably only spoken to once in my life. one friend also critically engaged with on the content of the article, asking for more information about the solutions and whether or not this paper was being realistic about its recommendations. another friend mentioned how the paper helped him understand some of his own friends and relatives more and how he was hoping to use some of the insights to have more genuine discussions with them. later today i'll post the attrition rate of views of this story.
+
+number of views for each story from first story to 15th story: 321, 301, 279, 258, 243, 228, 217, 209, 205, 198, 192, 189, 188, 189, 189. in the end, 189 people seemingly clicked through the whole set of 15 which is honestly much higher than i expected! i also had three more people message me for the paper details or thank me for the post. i ended up reconnecting with people i hadn't talked to in years as well which was an unanticipated benefit of posting! it was nice to very low-key text catch up with some of these people that i used to only see at college parties very casually. also, the number of views drops quite a bit through the first half of posts but then seemingly the people who are still watching are pretty committed to the story for the rest of the way. obviously, even if they clicked on the story, that doesn't mean that they read the text of the post for sure BUT it does mean they were interested enough to not just immediately swipe to the next story. it's also possible that people were clicking through quickly to get the article link further into my story but that's still a positive thing i think.
 
 ## tues 10/11/20
 here i am today and i finally made another post. this time i finally made it to my misinformation mega post that in hindsight, i am quite proud of. i should note it took me at least an hour to collect the quotes i wanted to post and then comment and post each of these quotes in my stories. this act of posting really makes me appreciate the work digital activists do a lot more as well in forming cohesive thoughts and presenting information in a way that is actually digestible. i was also very happy to receive feedback from other friends before i had even finished posting all my thoughts. during and within 5 minutes of posting my thoughts on misinformation, three different people from different circles of my life asked me for more information and a link to read the full article. given how long the whole exercise took though, i definitely have to budget more time to make posts like this in the future. below are the stories i posted:
