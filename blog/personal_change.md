@@ -14,7 +14,8 @@ to document my progress through my personal change challenge
 [06/11/20](#fri-061120)  
 [10/11/20](#tues-101120)  
 [11/11/20](#wed-111120)  
-[12/11/20](#thurs-121120)
+[12/11/20](#thurs-121120)  
+[18/11/20](#wed-181120)
 
 ## long-form posts i'd like to do
 * [x] misinformation reading posts and thoughts
@@ -27,8 +28,16 @@ to document my progress through my personal change challenge
 * amplify my own festival performance (scary, scary)
 * **add more readings to this list**
 
+## wed 18/11/20
+i posted another low-key thing on my story yesterday that described how the fossil fuel industry was linked to police brutality. image here:  
+<img src="img/1711igstorypolice.jpg" alt="police" width="200"/>  
+
+i had my former SELCO supervisor (pratim) reach out to me and comment that it was very informative. i thought that was cool because in india (where most of my SELCO friends are based), police brutality is a much-less talked about problem because there are innumberable other problems which means he probably had little context for what the graphic really showed. even so, he seemingly learned about some of the deeper financial connections between these two phenomena that are hurting poc disproportionately.
+
+i should note that it is kind of exhausting still to overthink which post to amplify and i'm often overwhelmed with all the content the activists i follow and my own friends amplify. that's also probably why i didn't post before today because i kept trying to figure out what i should post on the weekend but couldn't choose in a way that felt right. it's also why i'm feeling a tiny bit doubtful about how much this will stick after the personal change challenge is over as well. this choice i made was actually a post from quite a long time ago that i had saved without intention of posting but posted because it was the only one that i felt i could post without having to educate myself too much more than i already was educated (if that makes sense).
+
 ## thurs 12/11/20
-i posted a low-key thing on my story today, just amplifying a story from a genderqueer model (@raindovemodel) i follow who posted about their conversation with a trump supporter who was having difficulties with her gay daughter because of her support of trump. the conversation ends with raindovemodel helping the mother understand why her daughter felt unsafe and was so miserable and actually feeling regret for her trump vote. it was insane seeing the transition so i felt like amplifying it. here's the story:
+i posted a low-key thing on my story today, just amplifying a story from a genderqueer model (@raindovemodel) i follow who posted about their conversation with a trump supporter who was having difficulties with her gay daughter because of her support of trump. the conversation ends with raindovemodel helping the mother understand why her daughter felt unsafe and was so miserable and actually feeling regret for her trump vote. it was insane seeing the transition so i felt like amplifying it. here's the story:  
 <img src="img/1211igstorypolar.jpg" alt="polarization" width="200"/>
 
 i had two friends react to my story, basically demonstrating they appreciated reading it.
