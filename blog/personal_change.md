@@ -21,12 +21,26 @@ to document my progress through my personal change challenge
 * [x] misinformation reading posts and thoughts
 * posting about casteism in india based on my own ramayana readings
 * posting about development as freedom as i go through the book
+ * [x] social services in rich vs. poor countries
 * finish posting thoughts from angela davis' 'are prisons obsolete?' that i read over summer
 * post thoughts from intercommunalism by huey newton
 * misconceptions about plastic packaging!
 * amplify dance friends' festival performances esp. in udayraga
+ * [x] lichu
 * amplify my own festival performance (scary, scary)
 * **add more readings to this list**
+
+## mon 23/11/20
+although i am only writing now, i have made two instagram story posts since last wednesday and realize i forgot to write about another one i made. the one i forgot to write about was my nov. 14 post that amplified one of my best friend's dance performance. it wasn't a huge huge thing but she reached out and said thank you. it also made me think about what the best ways to post about my upcoming performance should be...anyways, here's the post i made for her:
+<img src="img/1411igstorylichu.jpg" alt="shreepunya" width="200"/>
+
+i also posted on saturday (i believe) about how south asians shouldn't get complacent about who represents them. because kamala harris is half tamil, a lot of indians are celebrating some version of success at representation in america but they fail to interrogate her past as an often cruel and racially discriminating prosecutor. i reposted another woc's quote about how it's not okay to simply resonate with someone because of identity politics. the post is below:  
+<img src="img/2011igstorycopmala.jpg" alt="copmala" width="200"/>
+
+i got some reactions from friends and then actually had an old high school friend who i haven't talked to in like 5 or 6 years reach out asking some clarifying questions. again, i got to catch up a little bit with him unexpectedly, someone who's not been on my mind in any strong way for quite some time. it was cool to see who my posts were reaching.
+
+finally, today i posted a picture from 'development as freedom' by amartya sen. this specific snippet discussed how 'human development' is seen as only a thing rich countries can invest in but is in fact not true. i pointed out in my post how we were seeing this in today's covid-19 world as well with new zealand's success with covid being amplified by so many media sources but vietnam basically forgotten despite its same if not better record. because vietnam has invested heavily in its own social services, its responds to covid has been magnitudes better than most western countries but it's rarely reported on. here's the post i made about that:
+<img src="img/2311igstoryvietnamdev.jpg" alt="vietnam development" width="200"/>
 
 ## wed 18/11/20
 i posted another low-key thing on my story yesterday that described how the fossil fuel industry was linked to police brutality. image here:  
@@ -36,8 +50,9 @@ i had my former SELCO supervisor (pratim) reach out to me and comment that it wa
 
 i should note that it is kind of exhausting still to overthink which post to amplify and i'm often overwhelmed with all the content the activists i follow and my own friends amplify. that's also probably why i didn't post before today because i kept trying to figure out what i should post on the weekend but couldn't choose in a way that felt right. it's also why i'm feeling a tiny bit doubtful about how much this will stick after the personal change challenge is over as well. this choice i made was actually a post from quite a long time ago that i had saved without intention of posting but posted because it was the only one that i felt i could post without having to educate myself too much more than i already was educated (if that makes sense).
 
-**later at nighttime** i posted another story that was technically a retweet from my twitter account but because i don't have a great following on twitter, i don't find it a useful platform for influence. this combination of tweets is about how biden has already appointed a person to his cabinet who is funded by multiple fossil fuel entities, his first climate appointment actually. very disappointing. here's the post:  
+**later at nighttime** i posted another story that was technically a retweet from my twitter account but because i don't have a great following on twitter, i don't find it a useful platform for influence. this combination of tweets is about how biden has already appointed a person to his cabinet who is funded by multiple fossil fuel entities, his first climate appointment actually. very disappointing. here's the post as well as a post giving more details from a jacobin article:  
 <img src="img/1811igstoryclimatepol.jpg" alt="climate politics" width="200"/>
+<img src="img/1811igstoryjabobin.jpg" alt="jacobin" width="200"/>
 
 i think i'm finding if i resonate with a specific post very strongly, i feel much less insecurity about posting. another note, the previous post got about 153 views and one person engaging. this post already had one person message me "i wanna scream".
 
