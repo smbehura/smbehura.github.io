@@ -36,6 +36,11 @@ i had my former SELCO supervisor (pratim) reach out to me and comment that it wa
 
 i should note that it is kind of exhausting still to overthink which post to amplify and i'm often overwhelmed with all the content the activists i follow and my own friends amplify. that's also probably why i didn't post before today because i kept trying to figure out what i should post on the weekend but couldn't choose in a way that felt right. it's also why i'm feeling a tiny bit doubtful about how much this will stick after the personal change challenge is over as well. this choice i made was actually a post from quite a long time ago that i had saved without intention of posting but posted because it was the only one that i felt i could post without having to educate myself too much more than i already was educated (if that makes sense).
 
+**later at nighttime** i posted another story that was technically a retweet from my twitter account but because i don't have a great following on twitter, i don't find it a useful platform for influence. this combination of tweets is about how biden has already appointed a person to his cabinet who is funded by multiple fossil fuel entities, his first climate appointment actually. very disappointing. here's the post:  
+<img src="img/1811igstoryclimatepol.jpg" alt="climate politics" width="200"/>
+
+i think i'm finding if i resonate with a specific post very strongly, i feel much less insecurity about posting. another note, the previous post got about 153 views and one person engaging. this post already had one person message me "i wanna scream".
+
 ## thurs 12/11/20
 i posted a low-key thing on my story today, just amplifying a story from a genderqueer model (@raindovemodel) i follow who posted about their conversation with a trump supporter who was having difficulties with her gay daughter because of her support of trump. the conversation ends with raindovemodel helping the mother understand why her daughter felt unsafe and was so miserable and actually feeling regret for her trump vote. it was insane seeing the transition so i felt like amplifying it. here's the story:  
 <img src="img/1211igstorypolar.jpg" alt="polarization" width="200"/>
