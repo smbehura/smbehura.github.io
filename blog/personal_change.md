@@ -15,7 +15,8 @@ to document my progress through my personal change challenge
 [10/11/20](#tues-101120)  
 [11/11/20](#wed-111120)  
 [12/11/20](#thurs-121120)  
-[18/11/20](#wed-181120)
+[18/11/20](#wed-181120)  
+[23/11/20](#mon-231120)
 
 ## long-form posts i'd like to do
 * [x] misinformation reading posts and thoughts
@@ -31,7 +32,7 @@ to document my progress through my personal change challenge
 * **add more readings to this list**
 
 ## mon 23/11/20
-although i am only writing now, i have made two instagram story posts since last wednesday and realize i forgot to write about another one i made. the one i forgot to write about was my nov. 14 post that amplified one of my best friend's dance performance. it wasn't a huge huge thing but she reached out and said thank you. it also made me think about what the best ways to post about my upcoming performance should be...anyways, here's the post i made for her:
+although i am only writing now, i have made two instagram story posts since last wednesday and realize i forgot to write about another one i made. the one i forgot to write about was my nov. 14 post that amplified one of my best friend's dance performance. it wasn't a huge huge thing but she reached out and said thank you. it also made me think about what the best ways to post about my upcoming performance should be...anyways, here's the post i made for her:  
 <img src="img/1411igstorylichu.jpg" alt="shreepunya" width="200"/>
 
 i also posted on saturday (i believe) about how south asians shouldn't get complacent about who represents them. because kamala harris is half tamil, a lot of indians are celebrating some version of success at representation in america but they fail to interrogate her past as an often cruel and racially discriminating prosecutor. i reposted another woc's quote about how it's not okay to simply resonate with someone because of identity politics. the post is below:  
@@ -39,7 +40,7 @@ i also posted on saturday (i believe) about how south asians shouldn't get compl
 
 i got some reactions from friends and then actually had an old high school friend who i haven't talked to in like 5 or 6 years reach out asking some clarifying questions. again, i got to catch up a little bit with him unexpectedly, someone who's not been on my mind in any strong way for quite some time. it was cool to see who my posts were reaching.
 
-finally, today i posted a picture from 'development as freedom' by amartya sen. this specific snippet discussed how 'human development' is seen as only a thing rich countries can invest in but is in fact not true. i pointed out in my post how we were seeing this in today's covid-19 world as well with new zealand's success with covid being amplified by so many media sources but vietnam basically forgotten despite its same if not better record. because vietnam has invested heavily in its own social services, its responds to covid has been magnitudes better than most western countries but it's rarely reported on. here's the post i made about that:
+finally, today i posted a picture from 'development as freedom' by amartya sen. this specific snippet discussed how 'human development' is seen as only a thing rich countries can invest in but is in fact not true. i pointed out in my post how we were seeing this in today's covid-19 world as well with new zealand's success with covid being amplified by so many media sources but vietnam basically forgotten despite its same if not better record. because vietnam has invested heavily in its own social services, its responds to covid has been magnitudes better than most western countries but it's rarely reported on. here's the post i made about that:  
 <img src="img/2311igstoryvietnamdev.jpg" alt="vietnam development" width="200"/>
 
 ## wed 18/11/20
