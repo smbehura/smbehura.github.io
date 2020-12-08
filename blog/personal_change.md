@@ -16,7 +16,8 @@ to document my progress through my personal change challenge
 [11/11/20](#wed-111120)  
 [12/11/20](#thurs-121120)  
 [18/11/20](#wed-181120)  
-[23/11/20](#mon-231120)
+[23/11/20](#mon-231120)  
+[08/12/20](#tues-081220)
 
 ## long-form posts i'd like to do
 * [x] misinformation reading posts and thoughts
@@ -30,6 +31,18 @@ to document my progress through my personal change challenge
  * [x] lichu
 * amplify my own festival performance (scary, scary)
 * **add more readings to this list**
+
+## tues 08/12/20
+This post is very late but it's because I got distracted by several other assignments due. This just tells me that in times of busyness some of the first things that drop off my list or keeping up with social media. I discovered I surfed through my Instagram and also Twitter much less frequently when busy and even the effort of trying to think about a post to emphasise was too high for me to actually post anything on my story. With that said, I wanted to comment on certain things my friends reacted to on my “development as freedom” post which I talked about in the last post I made. One of my friends who because of my posting has been interacting with me more than she ever had before in the past few years commented on how the post actually reminded her of ancient Islamic civilisations where the ruler would actually ensure that food reached all the citizens before anything else because he was so aware of how important basic survival was to general development of a community. We also had quite a thorough discussion about how development should work and how important social services were to development. Another friend who engaged with me is someone who I don't know very well because I met her here but her background is in economics and it was very interesting to discuss with her the difference between developmental economics and normal free market economics that is standard in most places. She was very interested on why I was reading it and also offered some interesting context about Amartya Sen’s specific contribution in the field of economics and so I learnt more from her because I posted than I would have if I hadn't posted. I had a number of other people who simply told me that this is an important observation and it was sad how most people were not noticing Vietnam.
+
+Yesterday, I made a few other posts. One was specifically about cotton and how cotton was used to to basically oppress colonized populations. One example of this was India where the farmers were pressured to switch to grow cotton and as such became much more vulnerable to English fashion cycles than they used to be. They also started growing less food for themselves. As a result, food became less accessible and less of a security than it used to be all to fit into the global fashion boom that was fed by growing plants from the global South including India. The next post that I made was about the current gigantic farmer strike in India now. I found that I myself do not know much about why the strikes are happening and all I was getting information from were these infographics on Instagram. They unfortunately did not have great documentation so I actually ended up doing it on my own research and copied and pasted snapshots from articles that gave me more context and also linked the relevant articles. As a result, I had 3 to 4 people reach out to me asking for the actual articles, specifically people who had an Indian background and who also were having difficulty finding information about the real cause of the strikes. These are also people that I hadn't talked to in maybe years and I got to reconnect with a few of them unexpectedly and and again, another co-benefit of this exercise. stories posted below:  
+<img src="img/0712igstorycotton1.jpg" alt="empires of cotton1" width="200"/>
+<img src="img/0712igstorycotton2.jpg" alt="empires of cotton2" width="200"/>
+<img src="img/0712igstorycotton3.jpg" alt="empires of cotton3" width="200"/>
+<img src="img/0712igstorycotton4.jpg" alt="empires of cotton4" width="200"/>
+<img src="img/0712igstoryfarmer3.jpg" alt="farmer protests1" width="200"/>
+<img src="img/0712igstoryfarmer1.jpg" alt="farmer protests2" width="200"/>
+<img src="img/0712igstoryfarmer2.jpg" alt="farmer protests3" width="200"/>
 
 ## mon 23/11/20
 although i am only writing now, i have made two instagram story posts since last wednesday and realize i forgot to write about another one i made. the one i forgot to write about was my nov. 14 post that amplified one of my best friend's dance performance. it wasn't a huge huge thing but she reached out and said thank you. it also made me think about what the best ways to post about my upcoming performance should be...anyways, here's the post i made for her:  
