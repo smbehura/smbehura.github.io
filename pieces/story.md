@@ -6,7 +6,7 @@ permalink: /pieces/story/
 
 beginning note:
 
-an unintended christmas gift. this story has been stewing in my mind for 2.5 months (since you asked me for a story *cry*) at this point but for some reason executing it has taken so so long. it's something about identity but it isn't fully thought out yet, the world is not fleshed out and i don't have a strong beginning or end or strong, obvious themes besides identity confusion. (so basically please have no expectations) i might end up doing a series of shorts in this universe but we shall see. also much of this world is unplanned and occurs as it is written. listening to arca whilst writing this.
+an unintended christmas gift (for you, kiran). this story has been stewing in my mind for 2.5 months (since you asked me for a story *cry*) at this point but for some reason executing it has taken so so long. it's something about identity but it isn't fully thought out yet, the world is not fleshed out and i don't have a strong beginning or end or strong, obvious themes besides identity confusion. (so basically please have no expectations) i might end up doing a series of shorts in this universe but we shall see. also much of this world is unplanned and occurs as it is written. listening to arca whilst writing this.
 
 ---
 
@@ -20,8 +20,18 @@ They had witnessed examples of such transformations, novelty performances from t
 
 A tap on the shoulder dragged them out of their reverie. Wildly, they flipped their head around. Recognition filtered through, colleague, unchanged. Calm. Only then did they consider the time diversity they might have taken. Their colleague slightly wrinkled their forehead, concerned. They just shook their head with a slight smile, short curls bouncing (or was it straight locks swishing?), downed the drink and pushed off the window. The colleague smoothed their creases of doubt, shy smile, and reported, "We're gathering for a meeting, 1 hour."
 
-***
+~~~
+
+One hour past, give or take a few moments, everyone lounged around in the only container space large enough to accommodate them all. Scanning through the faces, they noticed a few colleagues who'd shifted eye tilts or nose tips or lip constructions, flatter or sharper cheekbones. It seemed some still shifted out of boredom and ease. Those procedures had become so simple, cheap, and mundane that most stopped caring what "beauty" meant, an ideal too easily achieved to maintain value. And yet those more visually motivated still chose such procedures, sources of flitting diversity.
+
+Their roving eyes noted all these physical changes, unchanging identities, thoughts beginning to coalesce around the unclear cause for this meeting. Eyes flicked back. Rapid blinks to clear confusion, affirm reality. That face, adjusted again, rounder still. Mannerisms slightly more stilted but undeniably lissome despite the attempted disguise. New. Confusion bloomed in their mind. No one needed to shift appearance so often in such tight intervals anymore with such a great cost of pain. But this person was shifting and not in small, flitting ways. Without their heightened sensitivity to mannerism shifts, they would not have recognized this new *colleague* as the flash-glint. Pangs of exigent curiosity clanged in their mind. Before conscious permission could be attained, they found their feet marking a path directly towards this flash-glint, little regard for the confusion on their other colleagues' faces. Rounding on the flash-glint, they stuttered to a stop three feet in front of them. The only acknowledgement of their presence on the flash-glint's face was the slightest crinkle of eyes, impassive otherwise. Faced with the flash-glint, words tumbled out:
 
 "Who are you?"
 
+A moment. A deeper crinkle. Added eyebrow creases. And words:
+
 "What can that mean?"
+
+---
+
+endnote: so i'm not sure if this ends up being a very confusing beginning. and it ended up being longer than what i thought it would be to write the little scenes i had envisioned (i guess that always happens). there are some concepts of identity in this piece that i'm not even sure i resonate with but this is supposed to be an exploration of how you can identify someone if everything about their physical appearance might be able to change. i might end up faking connections between identity in your mind and how that informs the way people move. i'm not sure. i also feel the need to do more research on connections between mind, personality, mannerisms, movement but i don't fully know where to start. anyways!!!!!! i hope you don't hate it <3 i love you dearly
