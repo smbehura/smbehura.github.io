@@ -1,7 +1,7 @@
 ---
 layout: page
 title: story
-permalink: /pieces/story/
+permalink: /pieces/story1/
 ---
 
 beginning note:
