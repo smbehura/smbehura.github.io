@@ -11,7 +11,7 @@ Here's some fun things to potentially look at:
 
 ## simulations
 [kirigami](https://somadoes.com/simulation/onkirigami/)
-[moebius strip](https://somadoes.com/simulation/onmoebius/)
+[moebius strip](https://somadoes.com/simulation/onmoebiusstrip/)
 
 ## making
 [(almost) anything](https://somadoes.com/making/almostanything/)
