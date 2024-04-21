@@ -21,6 +21,27 @@ body {
     /* font-family: 'Open Sans', sans-serif; /* Specific font for everything inside the container */
 }
 
+.background-image {
+    background-image: url('../../assets/images/dance_redhaze.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%; /* Adjust width as needed */
+    text-align: left;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 10px; /* Smaller padding for smaller devices */

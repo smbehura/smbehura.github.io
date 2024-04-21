@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/danceoverview.css' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quando&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navigation">
+        <!-- Navigation links generated via Liquid tags -->
+        {% for header in page.headers %}
+            <a href="#{{ header.id }}">{{ header.title }}</a>
+        {% endfor %}
+    </nav>
+
+    <!-- Specific section with image on the left and text on the right -->
+    {% assign sections = content | split: '<!-- section-split -->' %}
+    <div class="intro-section" markdown="1">
+        <div class="image-container">
+            <img src="{{ page.intro_image | relative_url }}" alt="Intro Image">
+        </div>
+        <div class="text-container">
+            {{ sections[0] }}
+        </div>
+    </div>
+
+    <!-- General content sections -->
+    <div class="general-content" markdown="1">
+        {{ sections[1] }}
+    </div>
+
+    <div class="general-content" markdown="1">
+        {{ sections[2] }}
+    </div>
+
+    <div class="general-content" markdown="1">
+        {{ sections[3] }}
+    </div>
+</body>
+</html>
