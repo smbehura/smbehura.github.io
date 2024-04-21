@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: simulating moebius strip
 permalink: /simulation/onmoebiusstrip/
+image: ../../assets/images/mathematicamodellingmoebius.png
 ---
 # Modeling a Particle on a Mobius Strip
 

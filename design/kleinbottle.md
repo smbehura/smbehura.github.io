@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: klein bottle
 permalink: /design/ofkleinbottle/
 ---

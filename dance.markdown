@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dancejourney
 title: dance
 permalink: /dance/
 ---

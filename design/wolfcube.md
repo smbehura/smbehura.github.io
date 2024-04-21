@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: wolf cube
 permalink: /design/ofwolfcube/
 ---

@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Arial', sans-serif; /* Set a default font for the page */
+    background-color: #ffffff; /* Black background */
+    color: #000000; /* White text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Dark grey color for text */
+    font-family: 'DM Mono', monospace; /* Common, web-safe font */
+    text-align: left; /* Center-align titles */
+    font-size: 20px;
+    margin-top: 20px; /* Space above the title */
+    margin-bottom: 10px; /* Space below the title */
+}
+
+header {
+    display: flex;      /* Aligns child elements (img and h1) horizontally */
+    align-items: flex-start; /* Aligns items to the start of the flex container */
+    padding: 10px;      /* Adds some spacing inside the header */
+}
+
+.header-image {
+    width: 50px;       /* Set the width of the image */
+    /* height: 50px;      /* Set the height of the image */
+    margin-right: 20px; /* Adds spacing between the image and the title */
+}
+
+.header-title {
+    font-size: 24px;   /* Larger text for the title */
+    margin: 0;         /* Removes default margin from h1 */
+}
+
+.container {
+    max-width: 1200px; /* Maximum width of the container */
+    width: 100%; /* Make the container width 100% */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Padding around the content */
+    box-sizing: border-box;
+    background-color: #ffffff; /* Black background for the container if needed */
+    color: #000000; /* White text for content within the container */
+}
+
+.container * {
+    font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Open Sans', sans-serif; /* Specific font for everything inside the container */
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px; /* Smaller padding for smaller devices */
+    }
+}
+
+.font-roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+}
+
+.font-dm-mono {
+    font-family: 'DM Mono', monospace;
+    font-size: 14px;
+}

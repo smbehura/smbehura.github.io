@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: album cd case
 permalink: /design/ofalbumcdcase/
 ---

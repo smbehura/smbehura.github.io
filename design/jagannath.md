@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: dance tribute to jagannath
 permalink: /design/ofjagannath/
 ---

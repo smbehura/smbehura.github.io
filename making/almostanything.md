@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: how to make almost anything
 permalink: /making/almostanything/
 ---

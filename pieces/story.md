@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: story
 permalink: /pieces/story1/
 ---

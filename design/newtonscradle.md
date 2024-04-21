@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: newton's cradle
 permalink: /design/ofnewtonscradle/
 ---

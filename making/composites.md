@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: composites manufacture
 permalink: /making/composites/
 ---

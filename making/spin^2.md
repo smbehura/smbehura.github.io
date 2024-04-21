@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: spin^2
 permalink: /making/spin^2/
 ---

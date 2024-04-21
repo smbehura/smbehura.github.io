@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: dna bracelet
 permalink: /design/ofdnabracelet/
 ---

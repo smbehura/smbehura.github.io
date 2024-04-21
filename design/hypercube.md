@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: hypercube earrings
 permalink: /design/ofhypercube/
 ---
