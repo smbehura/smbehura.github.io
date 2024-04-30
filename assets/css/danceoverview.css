@@ -6,6 +6,31 @@ body {
     color: #fff; /* White text */
 }
 
+/* Styles the main scrollbar for the whole page in WebKit browsers */
+html {
+    scrollbar-width: thin; /* Optional for consistency in settings between Firefox and WebKit */
+    scrollbar-color: #2c0876 #000000; /* Optional for Firefox */
+}
+
+/* Customizing the scrollbar track */
+html::-webkit-scrollbar {
+    width: 12px; /* Adjust the width of the scrollbar */
+    height: 12px; /* Needed for horizontal scrollbars, if applicable */
+}
+
+/* Customizing the scrollbar thumb (the part that you drag) */
+html::-webkit-scrollbar-thumb {
+    background-color: #666; /* Color of the thumb */
+    border-radius: 6px; /* Rounded corners of the scrollbar thumb */
+    border: 3px solid #f0f0f0; /* Optional: Adds a border around the thumb */
+}
+
+/* Customizing the scrollbar track */
+html::-webkit-scrollbar-track {
+    background-color: #f0f0f0; /* Color of the track */
+}
+
+
 .container {
     max-width: 1200px; /* Maximum width of the container */
     width: 100%; /* Make the container width 100% */
@@ -78,4 +103,73 @@ body {
     .image-container, .text-container {
         flex-basis: 100%; /* Stack on top of each other on smaller screens */
     }
+}
+
+.horizontal-scroll-gallery {
+    display: flex; /* Aligns children (gallery-item) in a row */
+    overflow-x: auto; /* Enables horizontal scrolling */
+    /* white-space: nowrap; /* Prevents items from wrapping to the next line */
+    align-items: flex-start;
+    padding: 20px 0; /* Adds some vertical padding */
+}
+
+.gallery-item {
+    display: inline-block; /* Prevents items from growing or shrinking */
+    margin-right: 20px; /* Adds space between items */
+    text-align: center; /* Centers the text below the image */
+    width: auto;  /* Adjusts the width to fit the content, may need specific values */
+    position: relative;  /* Establishes positioning context for the caption */
+}
+
+.gallery-item img {
+    /* max-width: 100%; /* Ensures images are fully visible within their container */
+    display: block;
+    height: 500px; /* Maintains the aspect ratio */
+    width: auto; /* Ensures width is adjusted to maintain aspect ratio */
+    object-fit: cover; /* Ensures the image covers the area, may crop */
+}
+
+.caption {
+    color: #fff; /* White text for captions */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    padding: 10px; /* Padding around the text */
+    position: absolute; /* Absolute position within the relative container */
+    bottom: 0; /* Aligns the caption to the bottom of the image */
+    left: 0;
+    right: 0;
+    font-size: 12px;
+    text-align: center; /* Ensures the caption stretches across the image width */
+}
+
+/* For Webkit (Chrome, Edge, Safari) */
+.horizontal-scroll-gallery::-webkit-scrollbar {
+    height: 12px;  /* Height of the horizontal scrollbar */
+    background-color: rgb(0, 0, 0);  /* Background of the scrollbar track */
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar-thumb {
+    background-color: #2c0876;  /* Color of the scrollbar itself */
+    border-radius: 12px;  /* Optional: round corners for the scrollbar thumb */
+    border: 12px solid #f0f0f0;  /* Optional: adds some border around the thumb */
+}
+
+/* For Firefox */
+.horizontal-scroll-gallery {
+    scrollbar-color: #2c0876 #000000;  /* thumb and track colors */
+    scrollbar-width: thin;  /* Can be 'auto', 'thin', or 'none' */
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 11px;
+}
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
 }
