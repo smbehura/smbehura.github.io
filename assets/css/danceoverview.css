@@ -20,14 +20,14 @@ html::-webkit-scrollbar {
 
 /* Customizing the scrollbar thumb (the part that you drag) */
 html::-webkit-scrollbar-thumb {
-    background-color: #666; /* Color of the thumb */
+    background-color: #2c0876; /* Color of the thumb */
     border-radius: 6px; /* Rounded corners of the scrollbar thumb */
-    border: 3px solid #f0f0f0; /* Optional: Adds a border around the thumb */
+    border: 3px solid #2c0876; /* Optional: Adds a border around the thumb */
 }
 
 /* Customizing the scrollbar track */
 html::-webkit-scrollbar-track {
-    background-color: #f0f0f0; /* Color of the track */
+    background-color: #000000; /* Color of the track */
 }
 
 
@@ -150,7 +150,7 @@ html::-webkit-scrollbar-track {
 .horizontal-scroll-gallery::-webkit-scrollbar-thumb {
     background-color: #2c0876;  /* Color of the scrollbar itself */
     border-radius: 12px;  /* Optional: round corners for the scrollbar thumb */
-    border: 12px solid #f0f0f0;  /* Optional: adds some border around the thumb */
+    border: 12px solid #2c0876;  /* Optional: adds some border around the thumb */
 }
 
 /* For Firefox */
