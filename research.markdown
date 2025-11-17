@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Simantini Mitra-Behura
 ### **(Soma)**
-![Soma headshot]({{ '/assets/images/soma.jpg' | relative_url }})
+![Soma headshot]({{ '../../assets/images/soma.jpg' | relative_url }})
 
 Email: somamb19 at gmail dot com
 
