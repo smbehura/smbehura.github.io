@@ -10,7 +10,9 @@ permalink: /research/
 
 ![Soma headshot]('../../assets/images/soma.jpg')
 
-Email: somamb19 at gmail dot com
+Email: somamb19 at gmail dot com 
+
+rendered?
 
 <!-- section-split -->
 I am a prospective PhD student interested in computational materials science methods that use machine learning to accelerate materials discovery and design.
