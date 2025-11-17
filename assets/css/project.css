@@ -47,6 +47,41 @@ header {
     /* font-family: 'Open Sans', sans-serif; /* Specific font for everything inside the container */
 }
 
+/* Footer */
+.site-footer{
+    max-width: var(--wrap);
+    margin: 12px auto 24px;
+    padding: 12px 24px 0;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 14px;
+    text-align: center;
+  }
+
+.img-with-caption {
+    display: block;
+    max-width: 900px;       /* match your image width */
+    margin: 0 auto 1em;     /* centers the whole block and adds bottom space */
+    text-align: center;
+  }
+  
+  .img-with-caption img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .img-with-caption .caption {
+    font-size: 0.85rem;     /* smaller text */
+    color: #555;            /* softer gray */
+    margin-top: 4px;
+    line-height: 1.4;
+    max-width: 90%;         /* keeps it from stretching edge-to-edge */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 @media (max-width: 768px) {
     .container {
         padding: 10px; /* Smaller padding for smaller devices */

@@ -2,7 +2,7 @@
 layout: project
 title: 'Simulating Cellular Structures: Kirigami'
 permalink: /simulation/onkirigami/
-image: ../../assets/images/zippertube.jpg
+image: /assets/images/miura-ori_fea.jpg
 ---
 This work was done in collaboration with my research advisor, Sam Calisch, in the Center for Bits and Atoms (under the direction of Neil Gershenfeld) at MIT.
 
@@ -10,12 +10,20 @@ For this research, I developed workflows that streamlined the process of using t
 
 The second workflow I developed uses Abaqus (an industry-standard FEA package) to analyze kirigami structures. Because kirigami structures are planar, this required learning how to work in 2D environments in Abaqus and manipulate planes into three dimensions. To streamline our workflow to simulate using either Frame3dd or Abaqus, I learned to use the python API for Abaqus. This enables me to build geometries without using the graphical interface.
 
-<img src="../../assets/images/zippertube+fold+frame3dd.jpg" alt="zipper tube in different forms" width="900"/>
-caption: (left to right): zippertube from FOLD file in Demaine’s Fold Viewer; zippertube created in Abaqus; analysis results of zippertube from Frame3dd
+<div class="img-with-caption">
+  <img src="../../assets/images/zippertube+fold+frame3dd.jpg" alt="zipper tube in different forms" width="900"/>
+  <p class="caption">
+    (left to right): zippertube from FOLD file in Demaine’s Fold Viewer; zippertube created in Abaqus; analysis results of zippertube from Frame3dd
+  </p>
+</div>
 
 Finally, I developed python scripts to build the FOLD files for a few common kirigami structures: 1) the zipper tube (Filipov, 2017), and 2) the Tachi Miura polyhedron (Tomohiro Tachi, 2012). This involved using an equation relating folding angles in the structure, and developing a method of building the structures modularly so number of units can be used as a parameter in the construction.
 
 This work is still in progress and I hope to continue working with my advisor on a different simulator that uses two dimensional Hermite patches instead of one-dimensional elements or finely discretized grids (as in Frame3dd and Abaqus respectively). More to come!
 
-<img src="../../assets/images/hermitepatch.jpg" alt="hermite patch" width="900"/>
-caption: (left to right): Screenshot from Hermite element simulation; curved crease kirigami structure from Hermite patch simulator (from Sam Calisch's Hermite patch simulator: https://calischs.pages.cba.mit.edu/curved_crease_combs/)
+<div class="img-with-caption">
+  <img src="../../assets/images/hermitepatch.jpg" alt="hermite patch" width="900"/>
+  <p class="caption">
+    (left to right): Screenshot from Hermite element simulation; curved crease kirigami structure from Hermite patch simulator (from Sam Calisch's <a href="https://calischs.pages.cba.mit.edu/curved_crease_combs/">Hermite patch simulator</a>)
+  </p>
+</div>

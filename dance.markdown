@@ -14,7 +14,7 @@ headers:
     title: contact
 ---
 # introduction
-Soma (Simantini Mitra-Behura) is an artist trained in Odissi classical dance as well as modern choreographic techniques. They have been learning, teaching and performing dance for over 20 years.
+Soma (Simantini Mitra-Behura) is an artist trained in Odissi classical dance as well as modern choreographic techniques. They have been learning, teaching and performing dance for over 20 years. They currently study under Padmashree Guru Aruna Mohanty at [Orissa Dance Academy](https://orissadanceacademy.org/theacademy.html).
 
 Their practice is grounded in a deep appreciation for Odissi's storytelling capacity through both abstract and literal choreographies. Soma strives to marry this storytelling capacity with precision in movement and technique; the result is embodied narrative.
 
@@ -65,4 +65,6 @@ SOME GIFS WOULD BE COOL
 <!-- section-split -->
 
 ## contact 
-reach out at the following links
+Follow Soma's dance page on [Instagram](https://www.instagram.com/soma_dances_sumtimes?igsh=MW4yb3ZpZDd2eDdlNg==).
+Soma can be reached by email at soma.dances.sometimes at gmail dot com.
+Feel free to reach out about collaborations or any other inquiries!
