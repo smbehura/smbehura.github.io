@@ -6,7 +6,7 @@ permalink: /research/
 # Simantini Mitra-Behura
 ### **(Soma)**
 
-<img src="../../assets/images/soma.jpg" alt="Soma headshot">
+<img src="{{ '/assets/images/soma.jpg' | relative_url }}" alt="Soma headshot">
 
 ![Soma headshot]('../../assets/images/soma.jpg')
 
