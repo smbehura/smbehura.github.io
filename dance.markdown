@@ -66,5 +66,7 @@ SOME GIFS WOULD BE COOL
 
 ## contact 
 Follow Soma's dance page on [Instagram](https://www.instagram.com/soma_dances_sumtimes?igsh=MW4yb3ZpZDd2eDdlNg==).
+
 Soma can be reached by email at soma.dances.sometimes at gmail dot com.
+
 Feel free to reach out about collaborations or any other inquiries!
