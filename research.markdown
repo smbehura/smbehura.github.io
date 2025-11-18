@@ -8,11 +8,7 @@ permalink: /research/
 
 <img src="{{ '/assets/images/soma.JPG' | relative_url }}" alt="Soma headshot">
 
-![Soma headshot]('../../assets/images/soma.jpg')
-
 Email: somamb19 at gmail dot com 
-
-rendered?
 
 <!-- section-split -->
 I am a prospective PhD student interested in computational materials science methods that use machine learning to accelerate materials discovery and design.
