@@ -58,35 +58,126 @@ header {
     text-align: center;
   }
 
+/* Wrapper around gallery + caption */
 .img-with-caption {
-    display: block;
-    max-width: 900px;       /* match your image width */
-    margin: 0 auto 1em;     /* centers the whole block and adds bottom space */
-    text-align: center;
+    max-width: 900px;
+    margin: 0 auto 1.5em;
   }
   
-  .img-with-caption img {
-    width: 100%;
+  .img-with-caption > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;     /* centers it */
+  }
+
+  /* Row of images */
+  .img-with-caption .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;               /* space between images */
+  }
+  
+  /* Default: single image fills the width */
+  .img-with-caption .gallery img {
+    flex: 1 1 100%;
+    max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
   }
   
+  /* Two images: ~50% each */
+  .img-with-caption .gallery.two img {
+    flex: 1 1 calc(50% - 12px);
+    max-width: calc(50% - 12px);
+  }
+  
+  /* Three images: ~33% each */
+  .img-with-caption .gallery.three img {
+    flex: 1 1 calc(33.333% - 12px);
+    max-width: calc(33.333% - 12px);
+  }
+
+  /* Three images: ~33% each */
+  .img-with-caption .gallery.four img {
+    flex: 1 1 calc(25% - 12px);
+    max-width: calc(25% - 12px);
+  }
+  
+  /* Caption styling */
   .img-with-caption .caption {
-    font-size: 0.85rem;     /* smaller text */
-    color: #555;            /* softer gray */
+    font-size: 0.85rem;
+    color: #555;
     margin-top: 4px;
     line-height: 1.4;
-    max-width: 90%;         /* keeps it from stretching edge-to-edge */
+    text-align: center;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
-
-@media (max-width: 768px) {
-    .container {
-        padding: 10px; /* Smaller padding for smaller devices */
+  
+  /* Optional: stack images on small screens */
+  @media (max-width: 600px) {
+    .img-with-caption .gallery img {
+      flex: 1 1 100%;
+      max-width: 100%;
     }
-}
+  }
+
+  .img-with-caption.image-combo {
+    max-width: 900px;
+    margin: 0 auto 1.5em;
+  }
+  
+  /* Two columns: big image on the left, grid on the right */
+  .image-combo {
+    display: grid;
+    grid-template-columns: 1.6fr 1.4fr;  /* left bigger */
+    gap: 12px;
+    align-items: stretch;
+  }
+  
+  /* Big image */
+  .image-combo-main img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+  
+  /* Grid of 4 small images */
+  .image-combo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: auto;
+    gap: 8px;
+  }
+  
+  .image-combo-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+  
+  /* Caption spans full width */
+  .image-combo .caption {
+    grid-column: 1 / -1;
+    margin-top: 8px;
+    text-align: center;
+  }
+  
+  /* Responsive: stack columns on small screens */
+  @media (max-width: 700px) {
+    .image-combo {
+      grid-template-columns: 1fr;
+    }
+  
+    .image-combo-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
 
 .font-roboto-mono {
     font-family: 'Roboto Mono', monospace;
