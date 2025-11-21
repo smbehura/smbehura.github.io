@@ -72,6 +72,14 @@ html::-webkit-scrollbar-track {
     flex-direction: row; /* Ensures the children are laid out in a row */
 }
 
+h2 {
+    position: relative;
+    font-size: 2rem;       
+    color: white;          
+    text-shadow:
+      0.25em 0.25em 0 #2c0876;   
+  }
+
 .image-container {
     flex-basis: 30%; /* Takes up 40% of the intro section */
     padding: 10px;

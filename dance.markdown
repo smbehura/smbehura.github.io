@@ -13,7 +13,7 @@ headers:
   - id: contact
     title: contact
 ---
-# introduction
+## introduction
 Soma (Simantini Mitra-Behura) is an artist trained in Odissi classical dance as well as modern choreographic techniques. They have been learning, teaching and performing dance for over 20 years. They currently study under Padmashree Guru Aruna Mohanty at [Orissa Dance Academy](https://orissadanceacademy.org/theacademy.html).
 
 Their practice is grounded in a deep appreciation for Odissi's storytelling capacity through both abstract and literal choreographies. Soma strives to marry this storytelling capacity with precision in movement and technique; the result is embodied narrative.

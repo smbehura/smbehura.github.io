@@ -2,8 +2,8 @@
     --wrap: 1080px;
     --gutter: 24px;
     --left: 260px;       /* width of the thin left column */
-    --accent: #0b6cff;   /* name color */
-    --text: #1c1d20;
+    --accent: #038EB5;   /* name color */
+    --text: #012028;
     --muted: #475569;
     --border: #e6e8eb;
     --bg: #fff;
@@ -13,6 +13,25 @@
   *{ box-sizing: border-box; }
   html, body { margin:0; padding:0; background:var(--bg); color:var(--text); font-family:var(--font); }
   
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Accent block heading */
+  .accent-block {
+    display: inline-block;          /* shrink to fit text */
+    background: var(--accent);      /* your accent color */
+    color: #EBFAFF;                   /* flip text color */
+    padding: 0.15em 0.5em;          /* comfy spacing */
+    border-radius: 4px;             /* optional, remove if you want sharp corners */
+    font-weight: 700;               /* bold looks better on a block */
+  }
+
   .two-col{
     display: grid;
     grid-template-columns: var(--left) 1fr;
