@@ -54,13 +54,68 @@ Currently based in London, UK. Read more about Soma's dance journey [here](https
 <!-- section-split -->
 
 ## performance highlights
-SOME GIFS WOULD BE COOL
+<div class="video-highlight">
+  <div class="video-embed">
+    <iframe 
+      src="https://www.youtube.com/embed/R_cbWp6elkE"
+      title="Barsha Abhishaara Duet"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
 
-1. madhurashtakam 
-2. amrita mantra 
-3. khammaj pallavi
+  <div class="video-text">
+    <h3>Barsha Abhishaara Duet</h3>
+    <p>
+      The Indian soil dry with the prolonged heat of summer eagerly welcomes the arrival of the rains. The cooling drops of the first rain arouse myriads of sensations in the mind. It is a symbol of new life, regeneration, of the thrill and passion of romance, love and joy of living. With the distant thunder, rocks tumble down and lightning blinds the eye. The dance, Barsha Abhishaara, is a celebration of the arrival of rain and the pangs of separation that lovers suffer, yearning for the beloved.<br><br>
+      <i>Choreography: Padmashree Guru Aruna Mohanty<br>
+      In frame: Padmashree Guru Aruna Mohanty, Simantini (Soma) Mitra-Behura<br>
+      July 12, 2024; Bhavan, London</i>
+    </p>
+  </div>
+</div>
 
-[retain udayraaga here](https://www.youtube.com/live/8A9vw7sxfrI?si=bVl5aaDlwP4opJ6m)
+<div class="video-highlight video-highlight--reverse">
+  <div class="video-embed">
+    <iframe 
+      src="https://www.youtube.com/embed/2vW15KnKLy8?si=FjhzOiEc4WPEikW7"
+      title="Madhurashtakam"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-text">
+    <h3>Madhurashtakam</h3>
+    <p>
+      Chronicling the adventures of Krishna throughout his life.<br><br>
+      <i>Choreography: <br>
+      In frame: Simantini (Soma) Mitra-Behura<br>
+      December 2019; International Odissi Dance Festival in Bhubaneswar, Odisha</i>
+    </p>
+  </div>
+</div>
+
+<div class="video-highlight">
+  <div class="video-embed">
+    <iframe 
+      src="https://www.youtube.com/embed/kKYWN1tugRw?si=z3KF5MLx5ZANzBos"
+      title="Khammaj Pallavi"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-text">
+    <h3>Khammaj Pallavi</h3>
+    <p>
+      Pallavi means elaboration. It is another composition of pure dance with movements of lyrical grace. It is based on a melody (raga) which is soft, lilting and melodious. Beautiful dance passages run parallel with rhythmic syllables sung musically.<br><br>
+      <i>Choreography: Padmashree Guru Aruna Mohanty<br>
+      In frame: Simantini (Soma) Mitra-Behura<br>
+      December 27, 2022; International Odissi Dance Festival in Bhubaneswar, Odisha</i>
+    </p>
+  </div>
+</div>
 
 <!-- section-split -->
 

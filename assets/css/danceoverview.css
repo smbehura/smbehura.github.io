@@ -159,6 +159,56 @@ html::-webkit-scrollbar-track {
     scrollbar-width: thin;  /* Can be 'auto', 'thin', or 'none' */
 }
 
+/* === YouTube highlight rows === */
+
+.video-highlight {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    max-width: 1500px;
+    margin: 2.5rem auto;
+  }
+  
+  /* Left/normal text */
+  .video-highlight .video-text {
+    flex: 1 1 45%;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-align: left;
+  }
+  
+  /* YouTube iframe */
+  .video-highlight .video-embed {
+    flex: 1 1 55%;
+  }
+  
+  .video-highlight .video-embed iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;   /* keeps proper video shape */
+    border: 0;
+  }
+  
+  /* Reversed layout: video right, text right-aligned */
+  .video-highlight--reverse {
+    flex-direction: row-reverse;
+  }
+  
+  .video-highlight--reverse .video-text {
+    text-align: right;
+  }
+  
+  /* Mobile: stack vertically, keep text left-aligned for sanity */
+  @media (max-width: 768px) {
+    .video-highlight,
+    .video-highlight--reverse {
+      flex-direction: column;
+    }
+  
+    .video-highlight--reverse .video-text {
+      text-align: left;
+    }
+  }  
+
 footer {
     padding: 20px;
     text-align: center;
