@@ -25,6 +25,26 @@ Currently based in London, UK. Read more about Soma's dance journey [here](https
 ## gallery 
 <div class="horizontal-scroll-gallery">
     <div class="gallery-item">
+        <img src="../../assets/images/dance_britishmuseum2.jpg" alt="Barsha Abhishaara">
+        <p class="caption">Barsha Abhishaara at British Museum Sari, not Sorry event; July 2025</p>
+    </div>
+    <div class="gallery-item">
+        <img src="../../assets/images/dance_bhavan2.jpeg" alt="Barsha Abhishaara Duet">
+        <p class="caption">Barsha Abhishaara Duet at Bhavan, London; July 2024</p>
+    </div>
+    <div class="gallery-item">
+        <img src="../../assets/images/dance_britishmuseum3_crop.jpg" alt="Barsha Abhishaara">
+        <p class="caption">Barsha Abhishaara at British Museum Sari, not Sorry event; July 2025</p>
+    </div>
+    <div class="gallery-item">
+        <img src="../../assets/images/dance_diwalihansatrio_crop.jpeg" alt="Hansadwhani Pallavi Trio">
+        <p class="caption">Hansadwhani Pallavi Trio at Devonshire Square Diwali event; October 2024</p>
+    </div>
+    <div class="gallery-item">
+        <img src="../../assets/images/dance_dhauli_2025_crop.jpeg" alt="ODA at Dhauli Festival">
+        <p class="caption">ODA group at Dhauli-Mahotsav Festival in Odisha; February 2025</p>
+    </div>
+    <div class="gallery-item">
         <img src="../../assets/images/dance_khammaj.jpg" alt="Khammaj Pallavi">
         <p class="caption">Khammaj Pallavi at International Odissi Festival 2022 in Bhubaneswar, Odisha</p>
     </div>
