@@ -52,6 +52,15 @@ html::-webkit-scrollbar-track {
     }
 }
 
+a {
+    color: #611AEF;
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+
 .navigation {
     background-color: rgb(0, 0, 0);
     color: white;
@@ -210,12 +219,25 @@ h2 {
     .video-highlight,
     .video-highlight--reverse {
       flex-direction: column;
+      width: 100%;              /* ensure container spans full width */
+    }
+  
+    .video-highlight .video-embed,
+    .video-highlight--reverse .video-embed {
+      width: 100%;              /* allow embed wrapper to expand */
+    }
+  
+    .video-highlight .video-embed iframe,
+    .video-highlight--reverse .video-embed iframe {
+      width: 100% !important;   /* force iframe to full width */
+      height: auto;
+      aspect-ratio: 16 / 9;     /* maintain YouTube aspect ratio */
     }
   
     .video-highlight--reverse .video-text {
       text-align: left;
     }
-  }  
+  }   
 
 footer {
     padding: 20px;
@@ -225,7 +247,7 @@ footer {
     font-size: 11px;
 }
 footer a {
-    color: #007bff;
+    color: #2c0876;
     text-decoration: none;
 }
 footer a:hover {
