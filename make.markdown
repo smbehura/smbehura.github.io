@@ -7,7 +7,7 @@ i like making things! below are some things i've made.
 
 ## sewing
 * a collared shirt for my partner
-* my winter ball dress for mit senior ball
+* my dress for mit senior ball
 
 ## manufacturing of different types 
 * how to make almost anything

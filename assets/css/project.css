@@ -116,6 +116,14 @@ header {
     margin-left: auto;
     margin-right: auto;
   }
+
+  /* Make sure gallery images keep their natural aspect ratio */
+.img-with-caption .gallery img,
+.img-with-caption > img {
+  height: auto;
+  width: 100%;
+  object-fit: contain;  /* or remove this line entirely if you don't want any fit logic */
+}
   
   /* Optional: stack images on small screens */
   @media (max-width: 600px) {
@@ -178,6 +186,67 @@ header {
       grid-template-columns: 1fr 1fr;
     }
   }
+
+/* ====== Compact responsive image grid with hover overlay ====== */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0;                      /* no space between images */
+  margin: 0 auto 1.5rem;
+  max-width: 1000px;           /* or whatever width you want */
+}
+
+.image-tile {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;            /* hide overlay edges */
+}
+
+.image-tile img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;           /* nicely crops instead of distorting */
+}
+
+/* Hover caption overlay */
+.image-tile-caption {
+  position: absolute;
+  inset: 0;                    /* cover entire image */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0.75rem;
+
+  background: rgba(0, 0, 0, 0.65);  /* dark overlay */
+  color: #fff;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  text-align: center;
+
+  opacity: 0;
+  transform: translateY(5%);
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+
+  pointer-events: none;        /* don’t block clicks on the image */
+}
+
+/* Show overlay on hover/focus */
+.image-tile:hover .image-tile-caption,
+.image-tile:focus-within .image-tile-caption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Optional: make grid denser on large screens */
+@media (min-width: 900px) {
+  .image-grid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+}
+
 
 .font-roboto-mono {
     font-family: 'Roboto Mono', monospace;
