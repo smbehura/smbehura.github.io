@@ -2,10 +2,9 @@
 layout: project
 title: dna bracelet
 permalink: /design/ofdnabracelet/
+image: /assets/images/dna+bracelet2.png
 ---
 <img src="../../assets/images/dna+bracelet2.png" alt="dna bracelet shapeways version" width="600"/>
-
-# DNA Bracelet
 
 <img src="../../assets/images/dnabracelet.jpg" alt="dna bracelet cad version" width="600"/>
 

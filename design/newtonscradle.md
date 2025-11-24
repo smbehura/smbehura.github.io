@@ -1,11 +1,10 @@
 ---
 layout: project
-title: newton's cradle
+title: 3d-printed newton's cradle
 permalink: /design/ofnewtonscradle/
+image: /assets/images/newtons+cradle+shapeways.png
 ---
 <img src="../../assets/images/newtons+cradle+shapeways.png" alt="newton's cradle cad version" width="600"/>
-
-# 3D-Printed Newton's Cradle
 
 <img src="../../assets/images/realnewtonscradle.jpg" alt="real 3d printed newton's cradle" width="600"/>
 

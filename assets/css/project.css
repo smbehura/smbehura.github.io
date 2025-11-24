@@ -211,6 +211,15 @@ header {
   object-fit: cover;           /* nicely crops instead of distorting */
 }
 
+/* Make videos behave like images in the tile grid */
+.image-grid video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;    /* keeps the crop consistent with your images */
+  border: 0;
+}
+
 /* Hover caption overlay */
 .image-tile-caption {
   position: absolute;
